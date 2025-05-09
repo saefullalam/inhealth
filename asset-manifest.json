@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ab16354e.js",
+    "static/media/logo-mandiri-inhealth.png": "/static/media/logo-mandiri-inhealth.ae76a10d4a1702c1be51.png",
+    "index.html": "/index.html",
+    "main.ab16354e.js.map": "/static/js/main.ab16354e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ab16354e.js"
+  ]
+}
